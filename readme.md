@@ -2,7 +2,7 @@
 <h4 align="center" dir="auto">Senior Software Engineer</h4>
 
 
-- 👀 I have experience in Full Stack Web, ML, AI, GPT-4, and BLOCKCHAIN.
+- 👀 I have +14 years experience in Software Development.
 - 🌱 I pursue high IQ and integrity before coding itself.
 
 
