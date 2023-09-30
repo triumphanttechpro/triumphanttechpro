@@ -1,5 +1,9 @@
 <h1 align="center" dir="auto">👋 Hi, I’m Steve Lin</h1>
+<<<<<<< HEAD
 <h4 align="center" dir="auto">Seasoned Freelancer</h4>
+=======
+<h4 align="center" dir="auto">Senior Software Engineer</h4>
+>>>>>>> 3ea8a0f93f96a62aeb62c16bbe80debe2486deb1
 
 
 - 👀 I have +14 years experience in Software Development.
