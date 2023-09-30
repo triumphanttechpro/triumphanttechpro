@@ -1,5 +1,5 @@
-<h1 align="center" dir="auto">👋 Hi, I’m BenRong Lin</h1>
-<h4 align="center" dir="auto">Senior Software Engineer</h4>
+<h1 align="center" dir="auto">👋 Hi, I’m Steve Lin</h1>
+<h4 align="center" dir="auto">Seasoned Freelancer</h4>
 
 
 - 👀 I have +14 years experience in Software Development.
@@ -15,6 +15,7 @@ softgiant-nICE/softgiant-nICE is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---
 <picture>
 
   <source
@@ -30,3 +31,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
   
 </picture>
+--->
