@@ -1,7 +1,7 @@
-<h1 align="center" dir="auto">👋 Hi, I’m Steve Lin</h1>
+<h1 align="center" dir="auto">👋 Hi, I’m David</h1>
 <h4 align="center" dir="auto">Seasoned Freelancer</h4>
 
-- 👀 I have +14 years experience in Software Development.
+- 👀 I have +10 years experience in Software Development.
 - 🌱 I pursue high IQ and integrity before coding itself.
 
 <br>
